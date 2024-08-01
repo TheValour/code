@@ -7,6 +7,7 @@
 DSA/
 │
 ├── codeforces/
+|    ├── 1840C.cpp
 |    ├── 1849B.cpp
 |    ├── 1859B.cpp
 |    ├── 1876A.cpp
