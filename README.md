@@ -7,12 +7,15 @@
 DSA/
 │
 ├── codeforces/
-|    ├── 1840C.cpp
-|    ├── 1849B.cpp
-|    ├── 1859B.cpp
-|    ├── 1876A.cpp
-|    ├── 1883C.cpp
-│    └── 1913B.cpp
+|    ├── 1744C.cpp      (Traffic Light)
+|    ├── 1791D.cpp      (Distinct Split)
+|    ├── 1831B.cpp      (Array merging)
+|    ├── 1840C.cpp      (Ski Resort)
+|    ├── 1849B.cpp      (Monsters)
+|    ├── 1859B.cpp      (Olya and Game with Arrays)
+|    ├── 1876A.cpp      (Helmets in Night Light)
+|    ├── 1883C.cpp      (Raspberries)
+│    └── 1913B.cpp      (Swap and Delete)
 │
 |   
 ├── c implementation/
