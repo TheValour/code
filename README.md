@@ -7,6 +7,12 @@
 DSA/
 │
 ├── codeforces/
+|    ├── 1620B.cpp      (Triangles on a Rectangle)
+|    ├── 1659A.cpp      (Red Versus Blue)
+|    ├── 1691B.cpp      (Shoe Shuffling)
+|    ├── 1690D.cpp      (Black and White Stripe)
+|    ├── 1704B.cpp      (Luke is a Foodie)
+|    ├── 1715B.cpp      (Beautiful Array)
 |    ├── 1744C.cpp      (Traffic Light)
 |    ├── 1791D.cpp      (Distinct Split)
 |    ├── 1831B.cpp      (Array merging)
