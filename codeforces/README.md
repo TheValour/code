@@ -41,7 +41,6 @@ codeforces/
 │
 |   
 ├── TLE1100/
-|    ├── 1917B.cpp      (Erase First or Second Letter)
 |
 |
 |
